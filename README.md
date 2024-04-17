@@ -11,3 +11,5 @@ You need to write your own e-mail and password in the "user@gmail.com" and "pass
 The results will be sent to the e-mail address you entered within the time interval given in the code.
 
 The code will be developed and converted into malware as .exe or png.
+
+*This software was written by learning from the lessons of instructor Atıl Samancıoğlu.
